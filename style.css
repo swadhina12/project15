@@ -20,7 +20,7 @@ ol {
     list-style-type: none;
 }
 
-/* ================= btn css ================= */
+/* btn css */
 .btn-fill-dark {
     padding: 15px 40px;
     background-color: #C91B28;
@@ -65,7 +65,7 @@ ol {
     color: #fff;
 }
 
-/* ================= navbar ================= */
+/*navbar*/
 header {
     margin: 30px 100px 0 100px;
 }
@@ -113,7 +113,7 @@ nav {
     color: #FF3343;
 }
 
-/* ================= banner ================= */
+/* banner */
 #banner {
     margin: 40px 100px 100px 100px;
     margin-bottom: 0;
@@ -159,7 +159,7 @@ nav {
     margin: 20px 0 50px 0;
 }
 
-/* ================= services ================= */
+/*services*/
 #services {
     padding: 100px;
     position: relative;
@@ -219,7 +219,7 @@ nav {
 .service-card.active-card>a {
     color: #fff;
 }
-
+/*experience section*/
 .experience-cards {
     display: flex;
     align-items: center;
@@ -288,7 +288,7 @@ nav {
 }
 
 
-/* ================= projects ================= */
+/* projects */
 #projects {
     margin: 50px 150px 100px 150px;
 }
@@ -356,7 +356,7 @@ nav {
 }
 
 
-/* ================= contact ================= */
+/* contact */
 #contact {
     margin: 0 100px 100px 100px;
     display: flex;
@@ -398,7 +398,7 @@ nav {
 }
 
 
-/* ================= footer ================= */
+/*footer*/
 .footer-top {
     display: flex;
     align-items: center;
@@ -457,7 +457,7 @@ nav {
 .footer-social-icons a:first-child {
     margin-left: 0;
 }
-/* ================= navbar responsive ================= */
+/* navbar responsive */
 @media screen and (max-width: 1250px) {
     header {
         margin: 40px;
@@ -509,7 +509,7 @@ nav {
 
 
 
-/* ================= banner responsive ================= */
+/*  banner responsive  */
 @media screen and (max-width: 480px) {
     #banner {
         margin: 20px;
@@ -704,7 +704,7 @@ nav {
 }
 
 
-/* ================= services responsive ================= */
+/* services responsive*/
 @media screen and (max-width: 480px) {
     #services {
         padding: 20px;
@@ -731,7 +731,7 @@ nav {
     .service-card>a {
         font-size: 16px;
     }
-
+/* experience responsive*/
     .experience-cards {
         margin-top: 20px;
     }
@@ -994,7 +994,7 @@ nav {
     }
 }
 
-/* ================= projects responsive ================= */
+/* projects responsive  */
 @media screen and (max-width: 480px) {
     #projects {
         margin: 50px 20px 50px 20px;
@@ -1384,7 +1384,7 @@ nav {
 }
 
 
-/* ================= footer responsive ================= */
+/* footer responsive */
 @media screen and (max-width: 480px) {
     .footer-top {
         padding: 0 20px;
